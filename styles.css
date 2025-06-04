@@ -11,10 +11,12 @@ h1 {
 }
 
 p {
-    width: 620px;
+    width: 600px;
     font-size: 30px;
-    text-align: justify;
-    
+}
+
+#skills {
+    font-size: 20px;
 }
 
 #intro {
@@ -32,7 +34,7 @@ p {
     width: 100%; 
     height: 100%; 
     pointer-events: none; 
-    opacity: .02;
+    opacity: .025;
 }
 
 @media only screen and (width < 700px) {
